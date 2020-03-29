@@ -4,7 +4,7 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Launch with Babel-Node",
+      "name": "Babel-Node",
       "program": "${file}",
       "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/babel-node",
       "cwd": "${workspaceRoot}"
